@@ -3,10 +3,10 @@
     <rect x="45" y="45" width="110" height="22" rx="3" fill="#0070f3"/>
     <rect x="60" y="80" width="95" height="22" rx="3" fill="#0070f3"/>
     <rect x="75" y="115" width="80" height="22" rx="3" fill="#0070f3"/>
-    <text font-family="Liberation Mono, sans-serif" font-size="65" x="170" y="80" fill="#4A5568" font-weight="bold">
+    <text font-family="Liberation Mono, sans-serif" font-size="65" x="170" y="80" fill="#fff" font-weight="bold">
         ZISWAPP
     </text>
-    <text font-family="Liberation Mono, sans-serif" textLength="135" font-size="20" x="170" y="125" fill="#4A5568">
+    <text font-family="Liberation Mono, sans-serif" textLength="135" font-size="20" x="170" y="125" fill="#fff">
         FROMHOME
     </text>
 </svg>
